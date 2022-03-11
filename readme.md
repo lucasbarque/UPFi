@@ -12,7 +12,7 @@
 </div>
 <!-- Preview -->
 <div align="center">
-  <img src=".github/preview.gif">
+  <img src=".github/gif.gif">
 </div>
 
 ## 💻 Teste você mesmo clicando no link [Dashgo](https://dash-go-lucasbarque.vercel.app/)
