@@ -15,7 +15,7 @@
   <img src=".github/gif.gif">
 </div>
 
-## 💻 Teste você mesmo clicando no link [Dashgo](https://dash-go-lucasbarque.vercel.app/)
+## 💻 Teste você mesmo clicando no link [UPFi](https://upf-i-gk1s8sd7m-lucasbarque.vercel.app/)
 
 <br/>
 <!-- Sobre o Projeto -->
